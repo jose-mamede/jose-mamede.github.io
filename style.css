@@ -84,7 +84,6 @@ h1 {
 
 .tituloAJ {
   font-family: 'Akronim', cursive;
-  margin-bottom: 2px;
   text-align: left;
   font-size: 20px;
 }
@@ -112,7 +111,7 @@ h1 {
 .paragrafo4 {
   font-family: 'VT323', monospace;
   text-align: left;
-  margin-bottom: 90px;
+  margin-bottom: 70px;
 }
 .paragrafo5 {
   font-family: 'VT323', monospace;
